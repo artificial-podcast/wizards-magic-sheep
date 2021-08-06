@@ -1,0 +1,64 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Do Wizards dream of magic sheep?</title>
+    <link>https://podops.dev/stories/</link>
+    <description>See what happens when an artificial wizard starts to dream of wizards, magical creatures and sometimes moving stairs. This is an artificial, AI-generated podcast.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Aug 2021 20:03:57 +0200</lastBuildDate>
+    <atom:link href="https://podops.dev/stories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <itunes:category text="Fiction">
+      <itunes:category text="Fantasy" />
+    </itunes:category>
+    <itunes:owner>
+    <itunes:name>Transformative Services</itunes:name>
+    <itunes:email>hello@txs.vc</itunes:email>
+    </itunes:owner>
+    <itunes:summary>See what happens when an artificial wizard starts to dream of wizards, magical creatures and sometimes moving stairs. This is an artificial, AI-generated podcast.</itunes:summary>
+    <itunes:author>ArtificalWizard</itunes:author>
+    
+    
+    
+    
+    <itunes:explicit>true</itunes:explicit>
+    
+    <item>
+      <title>Second</title>
+      <itunes:title>Second</itunes:title>
+      <link>https://podops.dev/stories/second/</link>
+      <guid>https://podops.dev/stories/second/</guid>
+      <pubDate>Fri, 06 Aug 2021 20:03:57 +0200</pubDate>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit.&lt;/p&gt;
+</description>
+      
+      
+      
+      
+      
+      
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>First Episode</title>
+      <itunes:title>First Episode</itunes:title>
+      <link>https://podops.dev/stories/first/</link>
+      <guid>https://podops.dev/stories/first/</guid>
+      <pubDate>Fri, 06 Aug 2021 20:00:14 +0200</pubDate>
+      <description>&lt;p&gt;“Oh, fuck this,” Bellatrix says. “Here’s how it is, pet. You can either do something or you
+will just leave and find a new one right here.&amp;quot;&lt;/p&gt;
+</description>
+      <enclosure url="https://podops.dev/s/wizards-magic-sheep/text3.mp3" type="audio/mpeg" />
+      <itunes:duration>00:04:10</itunes:duration>
+      
+      
+      
+      
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>
