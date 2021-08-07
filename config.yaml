@@ -6,6 +6,8 @@ paginate: 10
 paginatePath: "page"
 
 params:
+  contact: "hellp@txs.vc"
+  logo: false
   sidebar: true
   
   podcast:
@@ -19,5 +21,5 @@ params:
     owner:
       name: Transformative Services
       email: hello@txs.vc
-    cdn: https://podops.dev/s/wizards-magic-sheep
+    cdn: https://storage.googleapis.com/cdn.podops.dev
     local: false

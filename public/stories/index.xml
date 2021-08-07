@@ -31,14 +31,14 @@
       <pubDate>Fri, 06 Aug 2021 20:03:57 +0200</pubDate>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit.&lt;/p&gt;
 </description>
+      <enclosure url="https://storage.googleapis.com/cdn.podops.dev/default/episode1.mp3" type="audio/mpeg" />
+      <itunes:duration>00:04:10</itunes:duration>
       
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
       
-      
-      
-      
-      
-      
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
     </item>
     
     <item>
@@ -47,17 +47,17 @@
       <link>https://podops.dev/stories/first/</link>
       <guid>https://podops.dev/stories/first/</guid>
       <pubDate>Fri, 06 Aug 2021 20:00:14 +0200</pubDate>
-      <description>&lt;p&gt;“Oh, fuck this,” Bellatrix says. “Here’s how it is, pet. You can either do something or you
-will just leave and find a new one right here.&amp;quot;&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit.&lt;/p&gt;
 </description>
-      <enclosure url="https://podops.dev/s/wizards-magic-sheep/text3.mp3" type="audio/mpeg" />
+      <enclosure url="https://storage.googleapis.com/cdn.podops.dev/default/episode1.mp3" type="audio/mpeg" />
       <itunes:duration>00:04:10</itunes:duration>
       
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
       
-      
-      
-      
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
     </item>
     
   </channel>
