@@ -1,7 +1,7 @@
 baseurl: "https://wizards.podops.dev/"
 languageCode: 'en-us'
 title: "Do Wizards dream of magic sheep?"
-theme: "zen"
+theme: "wizards"
 paginate: 10
 paginatePath: "page"
 
