@@ -42,7 +42,19 @@ jobs:
       run: npm install
 
     - name: build site
+      run: npm run build
+      
+    - name: build container
       run: |
-        npm run build
-        ls -la public
+        docker build -t "$REGISTRY_HOSTNAME"/"$REGISTRY"/"$IMAGE_NAME":"$GITHUB_SHA" \
+          --build-arg GITHUB_SHA="$GITHUB_SHA" \
+          --build-arg GITHUB_REF="$GITHUB_REF" .
 
+    # Push the docker image to Google Container Registry
+    - name: push container
+      run: |
+        docker push $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$GITHUB_SHA
+        docker tag $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$GITHUB_SHA $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:latest
+        docker tag $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$GITHUB_SHA $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$IMAGE_VERSION
+        docker push $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:latest
+        docker push $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$IMAGE_VERSION
