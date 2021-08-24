@@ -12,7 +12,7 @@
   },
   "scripts": {
     "prebuild": "npm run clean",
-    "build": "exec-bin bin/hugo/hugo --gc --minify",
+    "build": "exec-bin bin/hugo/hugo -D",
     "clean": "shx rm -rf public resources",
     "check": "exec-bin bin/hugo/hugo version",
     "postinstall": "hugo-installer --version otherDependencies.hugo --extended"
