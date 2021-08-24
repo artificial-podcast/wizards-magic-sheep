@@ -42,7 +42,9 @@ jobs:
       run: npm install
 
     - name: build site
-      run: npm run build
+      run: |
+        npm run build
+        ls -la public
       
     - name: build container
       run: |
