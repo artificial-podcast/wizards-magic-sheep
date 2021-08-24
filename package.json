@@ -1,0 +1,28 @@
+{
+  "name": "wizards-magic-sheep",
+  "description": "wizards-magic-sheep",
+  "version": "0.0.1",
+  "browserslist": [
+    "defaults"
+  ],
+  "repository": "https://github.com/artificial-podcast/wizards-magic-sheep",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "prebuild": "npm run clean",
+    "build": "exec-bin bin/hugo/hugo --gc --minify",
+    "clean": "shx rm -rf public resources",
+    "check": "exec-bin bin/hugo/hugo version",
+    "postinstall": "hugo-installer --version otherDependencies.hugo --extended"
+  },
+  "devDependencies": {
+    "exec-bin": "^1.0.0",
+    "hugo-installer": "^3.1",
+    "shx": "^0.3.3"
+  },
+  "otherDependencies": {
+    "hugo": "0.87.0"
+  }
+}

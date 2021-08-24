@@ -1,0 +1,60 @@
+name: build_container
+
+on:
+  push:
+    branches: [ main ]
+
+env:
+  IMAGE_NAME: wizards-magic-sheep-transport
+  IMAGE_VERSION: 0.0.1
+  REGISTRY: ${{ secrets.REGISTRY }}
+  REGISTRY_HOSTNAME: eu.gcr.io
+  GITHUB_SHA: ${{ github.sha }}
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+    - name: Set up Node.js ${{ matrix.node }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node }}
+
+    - name: setup gcloud
+      uses: google-github-actions/setup-gcloud@master
+      with:
+        service_account_email: ${{ secrets.GCP_EMAIL }}
+        service_account_key: ${{ secrets.GCP_SA_KEY }}
+        export_default_credentials: true
+
+    - name: authenticate gcloud
+      run: gcloud auth configure-docker
+    
+    - name: checkout code
+      uses: actions/checkout@v2
+
+    - name: get dependencies
+      run: npm install
+
+    - name: build site
+      run: npm run build
+      
+    - name: build container
+      run: |
+        docker build -t "$REGISTRY_HOSTNAME"/"$REGISTRY"/"$IMAGE_NAME":"$GITHUB_SHA" \
+          --build-arg GITHUB_SHA="$GITHUB_SHA" \
+          --build-arg GITHUB_REF="$GITHUB_REF" .
+
+    # Push the docker image to Google Container Registry
+    - name: push container
+      run: |
+        docker push $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$GITHUB_SHA
+        docker tag $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$GITHUB_SHA $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:latest
+        docker tag $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$GITHUB_SHA $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$IMAGE_VERSION
+        docker push $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:latest
+        docker push $REGISTRY_HOSTNAME/$REGISTRY/$IMAGE_NAME:$IMAGE_VERSION
