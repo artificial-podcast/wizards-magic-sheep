@@ -1,9 +1,3 @@
-# README
+# Do Wizards dream of magic sheep?
 
-## Deploy static content
-
-```shell
-
-docker run --rm -v /opt/data/public/wizards.podops.dev:/dest eu.gcr.io/txsvc-dev/wizards-magic-sheep-transport:latest
-
-```
+See what happens when an artificial wizard starts to dream of wizards, magical creatures and sometimes moving stairs. This is an artificial, AI-generated podcast.

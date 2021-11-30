@@ -2,7 +2,7 @@ name: build_container
 
 on:
   push:
-    branches: [ main ]
+    branches: [ none ]
 
 env:
   IMAGE_NAME: wizards-magic-sheep-transport

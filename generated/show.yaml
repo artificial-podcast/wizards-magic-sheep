@@ -1,0 +1,31 @@
+apiVersion: v1
+kind: show
+metadata:
+  name: wizards-magic-sheep
+  guid: 322f4096a94c
+  date: Sun, 28 Nov 2021 20:27:40 +0000
+  labels:
+    block: "no"
+    complete: "no"
+    explicit: "yes"
+    language: en_US
+    type: Episodic
+description:
+  title: Do Wizards dream of magic sheep?
+  summary: |
+    See what happens when an artificial wizard starts to dream of wizards, magical creatures and sometimes moving stairs. This is an artificial, AI-generated podcast.
+  link:
+    uri: https://podops.dev/wizards-magic-sheep
+    rel: external
+  category:
+    - name: Fiction
+      subcategory:
+        - Fantasy
+  owner:
+    name: Transformative Services
+    email: hello@txs.vc
+  author: ArtificalWizard
+  copyright: Copyright 2021 Transformative Services (txs.vc)
+image:
+  uri: wizards.png
+  rel: local
