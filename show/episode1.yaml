@@ -12,7 +12,7 @@ metadata:
     season: "1"
     type: Full
 description:
-  title: Dream 1
+  title: Episode 1
   summary: Her eyes moved to his face, searching for a contrived excuse to puke. "I’m sorry," she whispered, turning on her heel and walking away.
   episodeText: |
     She tried the door and it closed with a click.
@@ -105,6 +105,6 @@ image:
   uri: wizards.png
   rel: local
 enclosure:
-  uri: episode1.mp3
+  uri: generated/episode1.mp3
   rel: local
   type: audio/mpeg
