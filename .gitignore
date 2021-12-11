@@ -3,6 +3,6 @@ node_modules/
 bin/
 resources/
 .DS_Store
-**/.build/**
 **/raw/**
+**/.build/**
 *.mp3
