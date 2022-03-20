@@ -1,8 +1,10 @@
+# podops
+**/.build/**
+.podops
+*.mp3
+# other
 public/
 node_modules/
 bin/
 resources/
 .DS_Store
-**/raw/**
-**/.build/**
-*.mp3

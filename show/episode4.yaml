@@ -26,6 +26,6 @@ image:
   uri: wizards.png
   rel: local
 enclosure:
-  uri: generated/episode4.mp3
+  uri: assets/episode4.mp3
   rel: local
   type: audio/mpeg
