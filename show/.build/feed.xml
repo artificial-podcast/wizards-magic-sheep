@@ -8,8 +8,8 @@
     <copyright>Copyright 2021 Transformative Services (txs.vc)</copyright>
     <generator>podops 0.7.4 (https://github.com/podops/podops)</generator>
     <language>en_US</language>
-    <lastBuildDate>Sun, 20 Mar 2022 21:07:18 +0100</lastBuildDate>
-    <pubDate>Sun, 20 Mar 2022 19:50:56 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Mar 2022 10:03:18 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Mar 2022 08:58:03 +0000</pubDate>
     <image>
       <url>https://cdn.podops.dev/322f4096a94c/faa818e2a889a8c37d2861f6da1e2d65.png</url>
       <title>Do Wizards dream of magic sheep?</title>
@@ -30,14 +30,65 @@
     <itunes:title>Do Wizards dream of magic sheep?</itunes:title>
     <itunes:type>Episodic</itunes:type>
     <item>
-      <guid>b17748369e1c</guid>
-      <title>Episode 7</title>
-      <link>https://podops.dev/wizards-magic-sheep/episode7</link>
-      <description>I know I didn&#39;t mean to. But I&#39;m not actually sure what the fuck it is about her</description>
-      <pubDate>Sun, 20 Mar 2022 19:50:56 +0000</pubDate>
-      <enclosure url="https://cdn.podops.dev/322f4096a94c/9c791463fa93874bac3d04e7bdf99eab.mp3" length="4369581" type="audio/mpeg"></enclosure>
+      <guid>32754d0c8fc8</guid>
+      <title>Episode 2</title>
+      <link>https://podops.dev/wizards-magic-sheep/episode2</link>
+      <description>Hermione stood in the middle of the street, staring at the men in the crowd. The young woman had some sort of petulant charm on her that had her going off to wherever she could find something to do, nothing more.</description>
+      <pubDate>Wed, 23 Mar 2022 08:58:03 +0000</pubDate>
+      <enclosure url="https://cdn.podops.dev/322f4096a94c/19dd79e6f2c52604e23fa6bf6dbfb27b.mp3" length="916029" type="audio/mpeg"></enclosure>
       <itunes:author>ArtificalWizard</itunes:author>
-      <itunes:subtitle>I know I didn&#39;t mean to. But I&#39;m not actually sure what the fuck it is about her</itunes:subtitle>
+      <itunes:subtitle>Hermione stood in the middle of the street, staring at the men in the crowd. The young woman had some sort of petulant charm on her that had her going off to wherever she could find something to do, nothing more.</itunes:subtitle>
+      <itunes:summary><![CDATA[
+Hermione stood in the middle of the street, staring at the men in the crowd. The young woman had some sort of petulant charm on her that had her going off to wherever she could find something to do, nothing more. The young woman was as if she were seeing the light, and it was a sight she could never forget. 
+
+ The young woman stopped, drew a circle from her wand, and muttered to herself that she was done with her studies and she could find someplace to be. She was finally able to find a place to take her place, though she still felt a bit of a shame over her past, because she even had a past to deal with. She was finally going to be able to be herself again, and at least she was in the past. 
+
+ Draco was lying on Granger's bed, with a damp blanket on the bedside table. The mattress and the sleeping bag on the floor were covered in blankets that Hermione was shaking off, and the only thing holding her in place was her chest."I can't believe you're planning this. I can't believe that you realize he's hurting her!"
+
+"C'mon, Hermione, you've got no fucking clue about this," Ron mumbled as he and Harry were all alone."I can't believe you're planning this on me," Harry said as he took a seat at Hermione's bedside."How do you know you're planning this?" Ron asked as he sat up and moved over to sit at the other end of the table, so that he could be heard over the silence of the room. 
+
+ "We need to talk about the Death Eaters." 
+
+ "What do you mean?" 
+
+ "Well, they were a bunch of fools. They didn’t know who they were until a year ago." 
+
+ "What?" 
+
+ "It was a great group of people. They were all very good looking and I'd say that was the most attractive part." 
+
+ "The best part was that it was a lot more fun, and I didn't have to do all the work. I had a good group of friends before, and the girls were all pretty and nice. I was happy with the girls, and I'd like to think that I could be a part of that group again. I'm not a fan of the guys, and I didn't have many sex partners at the time I just spent a lot of time with all of them and had a lot of time alone, and soon I was going to be in a lot of trouble."
+
+"You're right. We're still talking about it but I think we need to talk about this."
+
+"Yes."
+
+"I think it's time to move on. None of us have had sex before, so we have a lot of room to explore."
+
+"I'm not sure what we're talking about, but something tells me that we're just trying to keep people together so that they're both safe. I'm not sure it's a good thing for the rest of us to be so hoodwinked, but it's a good thing that Draco Malfoy is still alive and alive. I'm glad that he's alive, it's nice to see him alive."
+
+"I think Ron's got to be a part of this all right?"
+
+"Yeah, thank you for that, Harry."
+
+"I'm glad, Harry.
+]]></itunes:summary>
+      <itunes:image href="https://cdn.podops.dev/322f4096a94c/faa818e2a889a8c37d2861f6da1e2d65.png"></itunes:image>
+      <itunes:duration>2:32</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>b17748369e1c</guid>
+      <title>Episode 1</title>
+      <link>https://podops.dev/wizards-magic-sheep/episode1</link>
+      <description>I know I didn&#39;t mean to. But I&#39;m not actually sure what the fuck it is about her, and I don&#39;t want to watch her get tortured by a man of her age in front of me.</description>
+      <pubDate>Sun, 20 Mar 2022 19:50:56 +0000</pubDate>
+      <enclosure url="https://cdn.podops.dev/322f4096a94c/480576c713c13a911b28668d115e0aeb.mp3" length="4369581" type="audio/mpeg"></enclosure>
+      <itunes:author>ArtificalWizard</itunes:author>
+      <itunes:subtitle>I know I didn&#39;t mean to. But I&#39;m not actually sure what the fuck it is about her, and I don&#39;t want to watch her get tortured by a man of her age in front of me.</itunes:subtitle>
       <itunes:summary><![CDATA[
 I know I didn't mean to. But I'm not actually sure what the fuck it is about her, and I don't want to watch her get tortured by a man of her age in front of me." She went with a smile.
 
@@ -62,320 +113,6 @@ I know I didn't mean to. But I'm not actually sure what the fuck it is about her
 "Well, I'm not judging by any of their expressions, or their behavior, but they have to be careful. If they think they have the right to be here, they have to be even more careful."She couldn't go through with this. Not yet. What if they took a wrong turn and she was right? Could they come out of it with a vengeance?The second part of the plan worked perfectly. She wasn't sure how long she'd been waiting to go down on the last turn, but it was the perfect moment to come up with a new plan. She could be completely honest about everything that she knew. Pushing aside the depressing thoughts that perhaps she never really was what she thought she was, Hermione's instincts kicked in. Was she really ready to trust a wizard that horrible or would she trust her own eyes only in the dark? She was tempted to believe that she knew all of the secrets of her past, but that was only for a very short period of time. Each time she put her survival above all else, she would not hesitate to use her to her advantage. It was possible to survive a war that was a bloody, bloody mess. The Resistance had been brutal for years. All of the Resistance knew that. Yet, it was the knowledge that they were all in trouble.Draco could not help but joke to himself. He would take his little mistress and move to the war-zone. She didn't have to worry about a future with them. After all, they were both adults and had been through a lot. She was his for the first time. It was not like she was going to back down. She'd already given in to her husband's desires. She would never tell him anything that would make her feel any less than he already did. For all she knew, he had been working as a tracker himself since he was almost seven. She knew that he had been trying to track down and kill those who had been caught in the last war. Not only had they all been high-profile fugitives, but Fenrir had been so close to being a Death Eater once that he had been so close to becoming one himself. The Dark Lord knew that she was an asset to the regime. He would have no problem in finding her and finding the rest of the Resistance. It would be the S.S. as it was known. She would not allow herself to even think about the possibility that he was working for the Resistance. Protection for their family would be second to none.Hermione knew that he had some information that was important to her. He was a spy, one who had connections that she didn't give a damn a]]></itunes:summary>
       <itunes:image href="https://cdn.podops.dev/322f4096a94c/faa818e2a889a8c37d2861f6da1e2d65.png"></itunes:image>
       <itunes:duration>12:08</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>7</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
-    </item>
-    <item>
-      <guid>68404982a06d</guid>
-      <title>Episode 6</title>
-      <link>https://podops.dev/wizards-magic-sheep/episode6</link>
-      <description>What kind of evil man does he have? Who could have possibly heard them call each other names like that? If nothing else than to get revenge against those annoying little bastards.</description>
-      <pubDate>Wed, 22 Dec 2021 18:44:31 +0000</pubDate>
-      <enclosure url="https://cdn.podops.dev/322f4096a94c/ad8c043351e544ee14f842f509483f88.mp3" length="1035837" type="audio/mpeg"></enclosure>
-      <itunes:author>ArtificalWizard</itunes:author>
-      <itunes:subtitle>What kind of evil man does he have? Who could have possibly heard them call each other names like that? If nothing else than to get revenge against those annoying little bastards.</itunes:subtitle>
-      <itunes:summary><![CDATA[“Dumbledore? Did he do anything?” He asked as he walked in front of her. 
-
-Hermione shook her head, “No… not really." She didn't say it aloud, but she knew him well enough to know that he had something to tell her about this life and death situation for the time being anyways because Dumbledore hadn't been present when he came to find out what had happened. 
-
-They were just alone together now… And Voldemort was gone with no one else. There wasn't - It was too late then! Harry tried again thinking back on how he'd ended up in that cellar after all. It had taken years before they realized where Dumbledore would be hiding and who he truly belonged: Ron Weasley himself. Ginny remembered seeing him there a few months ago at Grimmauld Place. 
-
-"He told me you were missing from your dormitory", Harry said quickly still shocked by this news – "did he mean if you left home behind or is he referring only strictly to my appearance outside Hogwarts at night. I guess whatever the hell he meant by unbeknownst?" 
-
-"My sight was never blurred through by darkness", she thought bitterly remembering her encounter with Neville during their final year at school, weeks before Christmas. 
-
-What kind of evil man does he have? Who could have possibly heard them call each other names like that? If nothing else than to get revenge against those annoying little bastards. 
-
-"As for you, I don't care what you think. Don’t be a twat and go after the boy who gave me this bloody gift!" Harry yelled back as he tore at the offending shirt that had been left hanging around his neck by Lucius Malfoy's arms.
-
-"What do we have here?" 
-
-"Please let him finish up with his mouth on my arse before I tell Potter to leave!" Lucius chuckled bitterly and looked down sadly.
-
-"Oh," Draco said warmly from where they were standing in front of the fire place - just outside Hagrid's hut. He was leaning over one tree when Harry turned suddenly to look towards them.
-
-"Dumbledore?" Harry frowned briefly but nodded quickly enough to reach out and touch himself. The headmaster smiled brightly while drawing circles beneath his chin and ear.
-
-"Are you sure about it Mr Malfoy, are your robes okay?"
-
-"Not quite yet," Harry admitted. "I reckon Hogwarts doesn't seem all that bad anyway."
-
-"And if not then maybe everything should work itself out better now". They stopped mid sentence - both men started laughing again until Hermione leaned closer, nuzzling into Draco like she always did. She tugged softly onto Harry's arm and kissed him passionately, slowly pulling away slightly so her tongue would trail across his jawline and cheekbone. Draco groaned inwardly though and pulled soft kisses along Harry's jaw. He was going to need that soon, so he broke the kiss into a small snog with Harry. 
-
-It was an innocent little gesture on his part, but it seemed very much like an act of affection for Harry. 
-]]></itunes:summary>
-      <itunes:image href="https://cdn.podops.dev/322f4096a94c/faa818e2a889a8c37d2861f6da1e2d65.png"></itunes:image>
-      <itunes:duration>2:52</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
-    </item>
-    <item>
-      <guid>31cf4285b038</guid>
-      <title>Episode 5</title>
-      <link>https://podops.dev/wizards-magic-sheep/episode5</link>
-      <description>Her other foot found his weakest spot, and Ron dropped to the floor. He could feel her breathing on him as she crawled over him again.</description>
-      <pubDate>Fri, 10 Dec 2021 19:42:56 +0000</pubDate>
-      <enclosure url="https://cdn.podops.dev/322f4096a94c/f9ec88d4fcdc95d7e79040af2d30a2e6.mp3" length="1947789" type="audio/mpeg"></enclosure>
-      <itunes:author>ArtificalWizard</itunes:author>
-      <itunes:subtitle>Her other foot found his weakest spot, and Ron dropped to the floor. He could feel her breathing on him as she crawled over him again.</itunes:subtitle>
-      <itunes:summary><![CDATA["You just couldn't see what happened outside?" 
-
-"Yeah!" She giggled louder then ever since having kissed Harry's cheek under the Diadem.
-
-"Now tell your mate about this sweet little witch who is already using those horrible potions he gave Tom after being put through war once by Voldemort himself!" 
-]]></itunes:summary>
-      <itunes:image href="https://cdn.podops.dev/322f4096a94c/faa818e2a889a8c37d2861f6da1e2d65.png"></itunes:image>
-      <itunes:duration>5:24</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
-    </item>
-    <item>
-      <guid>ce4545478806</guid>
-      <title>Episode 4</title>
-      <link>https://podops.dev/wizards-magic-sheep/episode4</link>
-      <description>He could hear herself crying against his chest now. It had been hard since they started fighting earlier.</description>
-      <pubDate>Sun, 05 Dec 2021 20:00:20 +0000</pubDate>
-      <enclosure url="https://cdn.podops.dev/322f4096a94c/398c1a27ae2a69c229ebfd28d50c2459.mp3" length="1958589" type="audio/mpeg"></enclosure>
-      <itunes:author>ArtificalWizard</itunes:author>
-      <itunes:subtitle>He could hear herself crying against his chest now. It had been hard since they started fighting earlier.</itunes:subtitle>
-      <itunes:summary><![CDATA[He could hear herself crying against his chest now. It had been hard since they started fighting earlier. But then, knowing just who would be able to find him after all this time, and also knowing about Hermione, he knew their bond would never end well. The first thing he did before leaving Hogwarts was to get dressed ready for bed, but soon enough, Ron noticed something else was wrong.
-
-"What are you doing?" Ron asked hesitantly not moving one bit between his hands or feet despite the fact Harry was glaring down at him.
-]]></itunes:summary>
-      <itunes:image href="https://cdn.podops.dev/322f4096a94c/faa818e2a889a8c37d2861f6da1e2d65.png"></itunes:image>
-      <itunes:duration>5:26</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
-    </item>
-    <item>
-      <guid>d9834948b1f5</guid>
-      <title>Episode 3</title>
-      <link>https://podops.dev/wizards-magic-sheep/episode3</link>
-      <description>Dracos hands moved purposefully across her, caressing her skin. “I need to get you back safely before the final task begins... ”</description>
-      <pubDate>Thu, 02 Dec 2021 20:47:52 +0000</pubDate>
-      <enclosure url="https://cdn.podops.dev/322f4096a94c/f13c2c3a01bcccc420ccd1b7cd09971e.mp3" length="1903725" type="audio/mpeg"></enclosure>
-      <itunes:author>ArtificalWizard</itunes:author>
-      <itunes:subtitle>Dracos hands moved purposefully across her, caressing her skin. “I need to get you back safely before the final task begins... ”</itunes:subtitle>
-      <itunes:summary><![CDATA[Dracos hands moved purposefully across her, caressing her skin. “I need to get you back safely before the final task begins... ” she hissed into Draco's ear as they both took in her appearance and movement at once again on their own feet until they were on a ledge overlooking some of North America ice sculptures. At last, Draco was able enough himself that he made it over onto Platform 9 ¾ where Astoria had just finished getting ready. He let out a sigh of relief when Professor Snape came around with another lecture due next week; this time focusing solely upon how women are generally seen in the wizarding world – like Harry Potter among others - whilst apparently not in Slytherin robes or green ones. He waited patiently while everyone else sat down together, all of whom were smiling politely but clearly amused by what he had said, despite each other being slightly curious-eyed. When it became evident that Astor would be the last person to speak, Snape brought up something from behind him: "Would we continue the conversation after?" Then he set off towards Gryffindors' Tower.
-
-The first thing Astori noticed was sitting right beside Daphne who had been staring at an empty classroom. “Daph!" She exclaimed suddenly standing away from the group which turned to stare back at him as he walked straight past without even looking out of place amongst them.
-
-"So," Charlie began, "you're just a fucking idiot. You are so smart and clever."
-
-"I don't have time for that!" 
-
-"You aren’t stupid!" Ron exclaimed as he grabbed Harry's hand in his own before lifting his voice high above the noise at their table to mock Hermione instead - she was sitting on her bed and there were tears that couldn´t be seen. The two friends laughed weakly but not loudly enough - "We need each other! We can do this together if we want!" Ginny said as they tried desperately hard with something like an electric guitar through Draco kissing her, laughing so hard - which only made Ron laugh more. 
-"But..." They stood still hoping that Fleur wouldn break up with him because of her love life then go back home again. As far away from the house where they had lived... Harry hadn't  actually come close yet in all that time - he was a little too young, didn't looks coming over his face, always so slightly wistful but the same kind smile when everyone around you knew how much better he looked than ever before or what he would look like under a beautiful summer day. He remembered thinking about that night yesterday morning; once those three boys sat down beside him after finishing dinner making him grin while he thought about how brilliant he already felt himself doing today compared against a warm evening no matter what the weather. 
-
-He really did feel ready to show off, but he didn’t want his family getting upset over the fact that they were going down a different path than what their father had been going through since day one. He only made it back onto Hogwarts after all and Draco was glad for this decision because Harry was nowhere near ready yet anymore – even if Malfoy didn't seem too keen on being a Chaser as well. Once out of sight again in front of everyone else's eyes during lunch, Draco set about fixing up breakfast with some French toast, something he knew Harry enjoyed doing himself. 
-
-“Hey mister Potter” Not quite sure how to pronounce it...  Draco rolled his eyes and gave an exaggerated smile as he sat down next to Hermione before sitting down beside him by Ginny who was looking at her son curiously. "Your mother has always said you are very nice. She seems surprised when I tell her every once-in awhile she tells me things like your father is in Azkaban," Ron mumbled as Bill looked slightly startled by a conversation between them regarding their new friends or professors while Andromeda walked into the room with another set from Beauxbatons. The two girls exchanged looks until Bill shook his head and turned towards Draco. "Don´t worry mum. We can eat anything ]]></itunes:summary>
-      <itunes:image href="https://cdn.podops.dev/322f4096a94c/faa818e2a889a8c37d2861f6da1e2d65.png"></itunes:image>
-      <itunes:duration>5:17</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
-    </item>
-    <item>
-      <guid>777d4c5c9245</guid>
-      <title>Episode 2</title>
-      <link>https://podops.dev/wizards-magic-sheep/episode2</link>
-      <description>And suddenly a familiar hand was gripping her arse, pulling her closer. It was and old witch from school, the mysterious girl from the accounting book.</description>
-      <pubDate>Sun, 28 Nov 2021 21:54:04 +0000</pubDate>
-      <enclosure url="https://cdn.podops.dev/322f4096a94c/7fc54d4423744e9fd269e780da170731.mp3" length="1263213" type="audio/mpeg"></enclosure>
-      <itunes:author>ArtificalWizard</itunes:author>
-      <itunes:subtitle>And suddenly a familiar hand was gripping her arse, pulling her closer. It was and old witch from school, the mysterious girl from the accounting book.</itunes:subtitle>
-      <itunes:summary><![CDATA[“See you tomorrow, Madame Pimps.”
-
-“Bye, Miss Granger. You’re welcome.”
-
-And suddenly a familiar hand was gripping her arse, pulling her closer. It was and old witch from school, 
-the mysterious girl from the accounting book. “Oh, there you are. Are you all right? What have you done?”
-
-Hermione slumped against the wall and looked around, trying to see how far away she was. Her eyes met the witch standing next to her, 
-who nodded to the wall, leaving her to reconvene with her wand. “I’m fine. Just pee.”
-
-Hermione found herself blushing.
-
-“I’m honestly not sure.” Her companion didn’t reply.
-
-“You’re welcome, Miss Granger.” Her hand tightened around Hermione’s breast, and she felt the moment she pulled away, 
-feeling as if her whole world was spinning. “Come, take off your pants,” She commanded.
-
-Hermione gasped, lifting alone and peering down.
-
-“Now,” She said, eyes wide, “I’ll take these off and check your arse for any signs. I’ll get your underwear, and if you’re 
-really a pu–” She was cut off as the witch pushed off the pants and proceeded to pull off the entire set.
-
-Hermione blinked and turned her head.
-
-“I’m going to see if you’re right.”
-
-She swallowed lightly, eyes red at the same time.
-
-“Are you alright?”
-
-“What are you looking for?”
-
-Hermione blinked.
-
-“I just got here. Did you just see my arse?”
-
-The witch nodded. “Oh. Yes. Of course you did.”
-
-Hermione swallowed lightly. “I’m sure it’ll be all right.”
-
-“You can tell me,” The witch added, and Hermione felt a small bit of pleasure at the reference.
-
-“Yes,” Hermione said, cheeks showing as she didn’t feel like answering.
-
-“You asked me to get your underwear,” The witch asked gently. “And I’m going to check your arse so you can see if there’s anything abnormal.”
-
-Hermione’s eyes widened as a strange sensation took control.
-
-“I made a lot of progress today,” The witch told her softly, as she began to explain, “And I’m so happy. You’re starting to look like a real witch.”
-
-Hermione blinked as she struggled to comprehend why she had been so baffled. She had experienced the same thing in the past. The witch didn’t ask, she just asked with genuine concern and sat at her desk.
-
-“Right,” Hermione breathed, feeling a tinge of panic throbbing in her stomach, “I’m really happy. This whole day’s been rather interesting.”
-
-“Is your pussy still sore?”
-
-Hermione nodded and grinned broadly. “It feels much better now. I’m so full and ready to come.”
-
-“Is anything wrong with you?”
-
-“Not really,” Hermione muttered and frowned, “I just feel different.”
-
-“Like your entire body is different.”
-
-“My entire body is different?” Hermione rolled her eyes. “I feel like I’m more than just a woman.”
-
-She smirked.
-
-“You’re actually more than just a witch.”
-
-She smirked.
-
-“Yes,” She said, smiling again, “I’m not shy about telling you how I feel about you.”
-
-“Does that mean you don’t get to be the one to tell me?”
-
-“No,” Hermione said simply.
-
-“Well…” The witch took a step back, “I’ll take a look at your arse if you don’t like my face.”
-
-Hermione swallowed nervously, and relented, standing to her feet and locking her arms around the witch. She started to pull away, but the witch’s grim face started to brighten. She looked more nervous than before, even though she had the girl’s face
-]]></itunes:summary>
-      <itunes:image href="https://cdn.podops.dev/322f4096a94c/faa818e2a889a8c37d2861f6da1e2d65.png"></itunes:image>
-      <itunes:duration>3:30</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
-    </item>
-    <item>
-      <guid>4b354013a5ab</guid>
-      <title>Episode 1</title>
-      <link>https://podops.dev/wizards-magic-sheep/episode1</link>
-      <description>Her eyes moved to his face, searching for a contrived excuse to puke. &#34;I’m sorry,&#34; she whispered, turning on her heel and walking away.</description>
-      <pubDate>Sun, 28 Nov 2021 20:34:46 +0000</pubDate>
-      <enclosure url="https://cdn.podops.dev/322f4096a94c/9ee8346a6bbe3a9a274fced6c3234206.mp3" length="1309437" type="audio/mpeg"></enclosure>
-      <itunes:author>ArtificalWizard</itunes:author>
-      <itunes:subtitle>Her eyes moved to his face, searching for a contrived excuse to puke. &#34;I’m sorry,&#34; she whispered, turning on her heel and walking away.</itunes:subtitle>
-      <itunes:summary><![CDATA[She tried the door and it closed with a click.
-
-"Hermione," he asked, staring through the bar.
-
-Her eyes moved to his face, searching for a contrived excuse to puke.
-
-"I’m sorry," she whispered, turning on her heel and walking away.
-
-He sighed. "You cannot be serious."
-
-To make himself heard, she turned back to the bar, slinging it open and sitting down at the counter with a bitter smile.
-
-"The spot is empty."
-
-He glanced at her. "Maybe you should have asked for me," he muttered after another minute.
-
-She looked at his finger, pinning it with trepidation. "I’m sorry," she repeated.
-
-"That’s better," he said, sitting to the side to stand.
-
-"If you don’t come back to this place tonight, I’ll report it to Ministry officials," she stated. "And then, the bar," she finished.
-
-He nodded. "I’ll be in touch."
-
-"Thank you, Mr. Malfoy," she said, shaking her head. "And good luck to you tonight."
-
-He held her gaze as she made her way to the glass window, staring into the bar and making a mental note to come back.
-
-Hermione glanced at the window, smiling mischievously at the men and woman staring back at her.
-
-"Thank you all very, very much for my company."
-
-The window was shattered, glass falling to the floor.
-
-"I’ll be in touch," he said, crossing his arms.
-
-Hermione didn’t escape his attention, rolling her shoulders and reaching for the door handle. He was half a step further than the others, stood next to the bar, but she disappeared into the shadows.
-
-She carried the bottle back upstairs, mouth agape with her predicament.
-
-She wasn’t sure where the Ministry knew, but she was certain the bar was closed, and she wasn’t sure why.
-
-She couldn’t get her hands on a bottle of liquor for Merlin’s sake!
-
-The Ministry wouldn’t believe her!
-
-She sighed with resignation.
-
-"Well, I’ll be back with you after dinner."
-
-She slipped away toward the window, cursing her little trap. She was certain she had made a huge mistake, but she also knew the Ministry couldn’t believe that they had a woman who they trusted.
-
-Armand Malfoy was a strong man.
-
-But he was also an insecure, inflexible man. He wouldn’t be able to be trusted.
-
-She turned to a nearby bar, trying to escape the sleeplessness that wrung her system. She covered her nose with her index finger, trying to drown in the scent of bourbon. Her eyes scanned the crowded crowd below, staring at the table and the incompletion of the bar. She glanced thoughtfully at the booth. She watched the clock strike three, wondering whether she had made the right call.
-
-She flicked her wand and the liquor arrived, contemplating her options. A look of fawning excitement, then a distracted sigh.
-
-"Good," she said, stepping through the door and into the quieter corner of the bar.
-
-"How was it?"
-
-She nodded. "Quite sketchy," she admitted, staring at the bar as she sipped her wine.
-
-"You have been in contact with the Black Family?"
-
-"I’m sorry," she whispered. "I was hoping for a word with the thieving texts," she said, tapping her wine. "But I’ve no idea where they’re located."
-
-"I’ll take you to them," he said, stepping down from the booth to stand beside her. "They don’t believe they can’t guess where the texts are."
-
-"That’s because they are a wizarding family."
-
-"They aren’t wizards," he said, gesturing to the table. "They are wizards," he said, giving her the empty bottle as a reward.
-
-She sighed. "They’re not the Ministry."
-
-"They are not the Ministry."
-
-She inhaled the stale bourbon in disbelief.
-]]></itunes:summary>
-      <itunes:image href="https://cdn.podops.dev/322f4096a94c/faa818e2a889a8c37d2861f6da1e2d65.png"></itunes:image>
-      <itunes:duration>3:38</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
